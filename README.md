@@ -10,7 +10,7 @@ This is a simple sample of IOS Test Automation using WebdriverIO with Allure Rep
 5. Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12), and XCode Command Line Tools (`xcode-select --install`).
 6. Install [Allure Report](https://allurereport.org/docs/install/).
 7. Install [NodeJS](https://nodejs.org/en/download/prebuilt-installer). 
-8. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) and install appium driver `uiautomator2`.
+8. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) and install appium driver `xcuitest`.
 9. Install and run [appium-doctor](https://www.npmjs.com/package/appium-doctor) to make sure all your appium's dependencies are OK, trouble shoot if any red "x" appears (you need to google it yourself).
 10. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases) into your iOS Device (`.ipa` file) or iOS Simulator (`.zip` file, extract and put the extracted file into iOS Simulator). Credit to [Wim Selles](https://github.com/wswebcreation).
 11. Download and open this code repository on your local Code Editor and run this commands :
