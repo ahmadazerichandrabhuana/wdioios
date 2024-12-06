@@ -1,5 +1,5 @@
 # IOS Test Automation using WebdriverIO with Allure Report
-This is a simple sample of iOS Test Automation using WebdriverIO with Allure Report.
+This is a simple sample of iOS Test Automation using WebdriverIO with Allure Report. 
 
 > [!NOTE]  
 > I can only try this code on MacOS, since it needs XCode. Not sure it can be used on Windows/Linux or not. Seems too complicated, IMHO.
