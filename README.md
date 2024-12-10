@@ -58,7 +58,7 @@ sample :
 
 This sample Test Automation only consists of 1 folder : `test`, and have 2 sub-folders : 
    ```
-   > pageobjects : each file represents individual app screen (including locators and actions on each page), with exception file 'common.action.js' (contain Common Action on iOS)
+   > pageobjects : each file represents individual apps screen (including locators and actions on each page), with exception file 'common.action.js' (contain Common Action on iOS)
    > testcases   : contains testcases to be executed
    ```
 File `package.json` and `package-lock.json` contains dependencies for the project, which can be initialized using commmand `npm install`.
